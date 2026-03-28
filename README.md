@@ -1,6 +1,6 @@
 # Hey, I'm Bastien 👋
 
-**Senior Software Engineer** at [Swile](https://github.com/TheMenu) — working on the Okarito travel platform.
+**Senior Software Engineer** at [Swile](https://github.com/TheMenu) - working on the Okarito travel platform.
 
 Remote from France 🇫🇷
 
